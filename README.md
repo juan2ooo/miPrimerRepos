@@ -1,2 +1,2 @@
 # miPrimerRepos
-voy a pracicar :)
+voy a practicar :)
