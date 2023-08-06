@@ -1,0 +1,1 @@
+El polimorfismo hace referencia a la cualidad por la que un objeto adquiere o puede tener diferentes formas. En Java, el polimorfismo alude al modo en que se pueden crear y utilizar dos o más métodos con el mismo nombre para ejecutar funciones diferentes

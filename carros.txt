@@ -1,0 +1,22 @@
+[200~1.Toyota RAV41.015.700-10%
+2.Toyota Corolla991.600-10%
+3.Tesla Model Y747.500+91%
+4.Honda CR-V733.300-18%
+5.Toyota Camry673.300-1%
+6.Toyota Hilux632.500+13%
+7.Nissan Sentra / Sylphy566.500-18%
+8.Toyota Corolla Cross530.300+221%
+9.Ford F-150525.100-5%
+10.Tesla Model 3482.200-3%
+11.Honda Accord479.3000%~
+12.	Honda HR-V / Vezel	470.600	-30%
+13.	BYD Song Plus	464.700	+210%
+14.	Wuling Hongguang MINI EV	443.400	+14%
+15.	Toyota Highlander	405.600	-8%
+16.	RAM 1500	394.200	-8%
+17.	Honda Civic / Integra	389.500	-18%
+18.	Chevrolet Silverado 1500	375.800	-14%
+19.	Hyundai Elantra	371.100	-11%
+20.	Mazda CX-5	363.600	-4%
+21.	Volkswagen Lavida	361.900	-16%
+22.	Nissan Qashqai	353.800	-12%
