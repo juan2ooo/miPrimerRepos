@@ -6,3 +6,13 @@ Porsche.
 SEAT.
 Skoda.
 Volkswagen.
+Honda Civic
+Ford Mustang
+Toyota Camry
+Chevrolet Corvette
+BMW X5
+Mercedes-Benz C-Class
+Volkswagen Golf
+Audi Q5
+Nissan Rogue
+Jeep Wrangler
